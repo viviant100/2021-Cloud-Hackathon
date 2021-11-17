@@ -2,7 +2,7 @@
 title: "2021 Cloud Hackathon"
 subtitle: "Transitioning Earthdata Workflows to the Cloud"
  
-author: "This Hackathon is co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC and Openscapes."
+author: "This Hackathon is co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC, IMPACT, and Openscapes."
 ---
 
 ## Welcome
@@ -98,6 +98,8 @@ We thank all of the additional NASA staff that have have joined as helpers.
 Thank you to the open science community that has created software, teaching resources, and workflows that we have been able to build heavily from! These include: 
 
 - eScience Institute, University of Washington: 
-  - https://uwhackweek.github.io/hackweeks-as-a-service/intro.html
-  - https://snowex-hackweek.github.io/website/intro.html
-  - https://icesat-2hackweek.github.io/learning-resources/
+  - <https://uwhackweek.github.io/hackweeks-as-a-service/intro.html>
+  - <https://snowex-hackweek.github.io/website/intro.html>
+  - <https://icesat-2hackweek.github.io/learning-resources/>
+  
+This hackathon book is made with [quarto](https://quarto.org). See the [earthdata-cloud-cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/) to learn more about how we work and contributing.
